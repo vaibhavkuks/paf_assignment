@@ -51,7 +51,7 @@ I used MVVM architecture for this application.
 
 The app fetches data from:
 ```
-https://acharyaprashant.org/api/v2/content/misc/media-coverages?limit=100
+../content/misc/media-coverages?limit=100
 ```
 
 Image URLs are constructed using:
